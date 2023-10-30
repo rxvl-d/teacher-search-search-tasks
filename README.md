@@ -8,6 +8,8 @@ Search tasks referred to in the paper titled "Exploring Teacher Search Tasks usi
 
 ### Mathematics
 
+Context: You’re a 7/8th grade mathematics teacher at a school in Hannover. You’re about to start or have just started teaching some probability and statistics related topics to the class. You have little to no experience actually teaching this class but of course have taught other classes and other topics before and you are trained to teach this topic. Perform the following search tasks:
+
 1. You need to look up the state’s curriculum for this class to see which topics need to be covered at this level. Unfortunately you do not have the document downloaded but have been told it’s findable on the internet. Find the document.
 1. You have to teach a class on the Law of Large Numbers. Refamiliarize yourself with the topic in preparation for the class. Spend up to 10 minutes searching the internet to do so.
 1. You have forgotten the formulae for path rules in the context of tree diagrams for probability combination. Look them up.
@@ -16,6 +18,8 @@ Search tasks referred to in the paper titled "Exploring Teacher Search Tasks usi
 1. Find a simulation or video demonstrating the law of large numbers that you could look at with students in your class and discuss afterwards.
 
 ### Physics
+
+You’re a 9/10th grade physics teacher at a school in Hannover. You’re about to start or have just started teaching some energy related topics to the class. You have little to no experience actually teaching this class but of course have taught other classes and other topics before and you are trained to teach this topic. Perform the following search tasks:
 
 1. You need to look up the state’s curriculum for this class to see which topics need to be covered at this level. Unfortunately you do not have the document downloaded but have been told it’s findable on the internet. Find the document.
 2. One of the things that you have to make sure that your students understand is the subtle differences between Innere Energie, Temperature and Wärme. Since it’s been a while since you yourself last taught or read about these topics, you would like to refamiliarize yourself with this topic. Spend up to 10 minutes searching the internet to do so.
@@ -27,6 +31,7 @@ Search tasks referred to in the paper titled "Exploring Teacher Search Tasks usi
 
 ### Chemistry
 
+You’re a 9/10th grade chemistry teacher at a school in Hannover. You’re about to start or have just started teaching some atom model related topics to the class. You have little to no experience actually teaching this class but of course have taught other classes and other topics before and you are trained to teach this topic. Perform the following search tasks:
 
 1. You need to look up the state’s curriculum for this class to see which topics need to be covered at this level. Unfortunately you do not have the document downloaded but have been told it’s findable on the internet. Find the document.
 2. One of the things that you have to make sure that your students understand is the difference between the atom model they need to understand at this level and the one they understood at the ⅞ level. Since the difference is subtle and requires a firm understanding of both models. Spend up to 10 minutes searching the internet for each and remind yourself of the two models and their differences.
