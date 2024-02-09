@@ -8,7 +8,7 @@ Search tasks referred to in the paper titled "Exploring Teacher Search Tasks usi
 
 ### Mathematics
 
-Context: You’re a 7/8th grade mathematics teacher at a school in Hannover. You’re about to start or have just started teaching some probability and statistics related topics to the class. You have little to no experience actually teaching this class but of course have taught other classes and other topics before and you are trained to teach this topic. Perform the following search tasks:
+Context: You’re a 7/8th grade mathematics teacher at a school in <Name of city where study participants lived and worked>. You’re about to start or have just started teaching some probability and statistics related topics to the class. You have little to no experience actually teaching this class but of course have taught other classes and other topics before and you are trained to teach this topic. Perform the following search tasks:
 
 1. You need to look up the state’s curriculum for this class to see which topics need to be covered at this level. Unfortunately you do not have the document downloaded but have been told it’s findable on the internet. Find the document.
 1. You have to teach a class on the Law of Large Numbers. Refamiliarize yourself with the topic in preparation for the class. Spend up to 10 minutes searching the internet to do so.
@@ -19,7 +19,7 @@ Context: You’re a 7/8th grade mathematics teacher at a school in Hannover. You
 
 ### Physics
 
-You’re a 9/10th grade physics teacher at a school in Hannover. You’re about to start or have just started teaching some energy related topics to the class. You have little to no experience actually teaching this class but of course have taught other classes and other topics before and you are trained to teach this topic. Perform the following search tasks:
+You’re a 9/10th grade physics teacher at a school in <Name of city where study participants lived and worked>. You’re about to start or have just started teaching some energy related topics to the class. You have little to no experience actually teaching this class but of course have taught other classes and other topics before and you are trained to teach this topic. Perform the following search tasks:
 
 1. You need to look up the state’s curriculum for this class to see which topics need to be covered at this level. Unfortunately you do not have the document downloaded but have been told it’s findable on the internet. Find the document.
 2. One of the things that you have to make sure that your students understand is the subtle differences between Innere Energie, Temperature and Wärme. Since it’s been a while since you yourself last taught or read about these topics, you would like to refamiliarize yourself with this topic. Spend up to 10 minutes searching the internet to do so.
@@ -31,7 +31,7 @@ You’re a 9/10th grade physics teacher at a school in Hannover. You’re about 
 
 ### Chemistry
 
-You’re a 9/10th grade chemistry teacher at a school in Hannover. You’re about to start or have just started teaching some atom model related topics to the class. You have little to no experience actually teaching this class but of course have taught other classes and other topics before and you are trained to teach this topic. Perform the following search tasks:
+You’re a 9/10th grade chemistry teacher at a school in <Name of city where study participants lived and worked>. You’re about to start or have just started teaching some atom model related topics to the class. You have little to no experience actually teaching this class but of course have taught other classes and other topics before and you are trained to teach this topic. Perform the following search tasks:
 
 1. You need to look up the state’s curriculum for this class to see which topics need to be covered at this level. Unfortunately you do not have the document downloaded but have been told it’s findable on the internet. Find the document.
 2. One of the things that you have to make sure that your students understand is the difference between the atom model they need to understand at this level and the one they understood at the ⅞ level. Since the difference is subtle and requires a firm understanding of both models. Spend up to 10 minutes searching the internet for each and remind yourself of the two models and their differences.
@@ -44,7 +44,7 @@ You’re a 9/10th grade chemistry teacher at a school in Hannover. You’re abou
 
 ### Mathematics
 
-Sie sind Mathematiklehrer/in der Klasse 7/8 an einem Gymnasium in Hannover. Sie stehen kurz vor dem Beginn des Unterrichts oder haben gerade damit begonnen, die Klasse in den Fächern Daten und Zufall zu unterrichten. Sie haben wenig bis gar keine Erfahrung im Unterrichten dieser Klasse, aber natürlich haben Sie schon andere Klassen und andere Themen unterrichtet und sind für das Unterrichten dieses Themas ausgebildet.
+Sie sind Mathematiklehrer/in der Klasse 7/8 an einem Gymnasium in <Name of city where study participants lived and worked>. Sie stehen kurz vor dem Beginn des Unterrichts oder haben gerade damit begonnen, die Klasse in den Fächern Daten und Zufall zu unterrichten. Sie haben wenig bis gar keine Erfahrung im Unterrichten dieser Klasse, aber natürlich haben Sie schon andere Klassen und andere Themen unterrichtet und sind für das Unterrichten dieses Themas ausgebildet.
 
 1. Sie müssen im Kerncurriculum nachsehen, welche inhaltsbezogenen Kompetenzen zu Daten und Zufall im Jahrgang 7/8 im Gymnasium erworben werden sollen. Leider haben Sie das Dokument nicht heruntergeladen, aber man hat Ihnen gesagt, dass es im Internet zu finden ist. Finden Sie das Dokument.
 2. Sie müssen eine Klasse zum Thema "Gesetz der großen Zahlen" unterrichten. Machen Sie sich mit dem Thema vertraut, um sich auf den Unterricht vorzubereiten. Verbringen Sie bis zu 10 Minuten mit der Suche im Internet, um dies zu tun.
@@ -56,7 +56,7 @@ Sie sind Mathematiklehrer/in der Klasse 7/8 an einem Gymnasium in Hannover. Sie 
 
 ### Physics
 
-Sie sind Physiklehrer einer 9. oder 10. Klasse an einem Gymnasium in Hannover. Sie unterrichten im Moment das Thema Energie. Sie haben kaum oder gar keine Erfahrung mit dem Unterrichten dieses Kurses, haben aber natürlich schon andere Kurse und andere Themen unterrichtet und sind für das Unterrichten dieses Themas ausgebildet.
+Sie sind Physiklehrer einer 9. oder 10. Klasse an einem Gymnasium in <Name of city where study participants lived and worked>. Sie unterrichten im Moment das Thema Energie. Sie haben kaum oder gar keine Erfahrung mit dem Unterrichten dieses Kurses, haben aber natürlich schon andere Kurse und andere Themen unterrichtet und sind für das Unterrichten dieses Themas ausgebildet.
 
 1. Sie müssen das Kerncurriculum für diesen Kurs nachschlagen, um zu sehen, welche Themen auf dieser Ebene behandelt werden müssen. Leider haben Sie das Dokument nicht heruntergeladen, Ihnen wurde jedoch mitgeteilt, dass es im Internet auffindbar ist. Finden Sie das Dokument.
 2. Eines der Dinge, die Sie sicherstellen müssen, ist, dass Ihre Schüler die Begriffe innere Energie, Temperatur und Wärme differenzieren können. Da es schon einige Zeit her ist, dass Sie dieses Thema das letzte Mal unterrichtet haben, möchten Sie sich gerne wieder mit den Definitionen vertraut machen. Verbringen Sie dafür bis zu 10 Minuten mit der Suche im Internet.
@@ -67,7 +67,7 @@ Sie sind Physiklehrer einer 9. oder 10. Klasse an einem Gymnasium in Hannover. S
 
 ### Chemistry
 
-Sie sind Chemielehrkraft einer 9. oder 10. Klasse an einem Gymnasium in Hannover. Sie unterrichten im Moment das Thema “Atome besitzen einen differenzierten Bau”. Sie haben kaum oder gar keine Erfahrung mit dem Unterrichten dieser Thematik, haben aber Erfahrungen beim Unterrichten im Fach Chemie.
+Sie sind Chemielehrkraft einer 9. oder 10. Klasse an einem Gymnasium in <Name of city where study participants lived and worked>. Sie unterrichten im Moment das Thema “Atome besitzen einen differenzierten Bau”. Sie haben kaum oder gar keine Erfahrung mit dem Unterrichten dieser Thematik, haben aber Erfahrungen beim Unterrichten im Fach Chemie.
 
 1. Sie müssen im Kerncurriculum für dieses Thema nachschlagen, um zu sehen, welche Inhalte auf dieser Ebene behandelt werden müssen. Leider haben Sie das Dokument nicht heruntergeladen, Ihnen wurde jedoch mitgeteilt, dass es im Internet auffindbar ist. Finden Sie das Dokument.
 2. Eines der Dinge, die Sie sicherstellen müssen, ist, dass Ihre Schülerinnen und Schüler die Unterschiede zwischen dem Teilchenmodell aus der 7./8. Jahrgangsstufe und dem differenzierten Atommodell  verstanden haben. Da es schon einige Zeit her ist, dass Sie dieses Thema das letzte Mal unterrichtet haben, möchten Sie sich gerne wieder mit den Einzelheiten  vertraut machen. Verbringen Sie dafür bis zu 10 Minuten mit der Suche im Internet.
